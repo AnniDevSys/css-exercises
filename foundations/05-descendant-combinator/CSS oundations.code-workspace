@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "02-class-id-selectors",
+			"path": "../02-class-id-selectors"
+		},
+		{
+			"name": "03-grouping-selectors",
+			"path": "../03-grouping-selectors"
+		},
+		{
+			"name": "04-chaining-selectors",
+			"path": "../04-chaining-selectors"
+		},
+		{
+			"name": "05-descendant-combinator",
+			"path": "."
+		},
+		{
+			"name": "06-cascade-fix",
+			"path": "../06-cascade-fix"
+		}
+	],
+	"settings": {}
+}

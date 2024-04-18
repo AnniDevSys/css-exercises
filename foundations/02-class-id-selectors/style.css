@@ -1,0 +1,21 @@
+.Number-1, 
+.Number-3,
+.Number-5 {
+  background-color: #ec138d;
+  font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.Number-3 {
+  font-size: 24px;
+
+}
+#Number-2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#Number-4 {
+ background-color:  #05fa0d;
+ font-size: 24px; 
+ font-weight: 800;
+}
